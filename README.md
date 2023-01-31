@@ -16,7 +16,7 @@ This project is done using [React](https://reactjs.org/) with [TypeScript](https
 
 ## Live Version
 
-dashboard-films-project.netlify.app
+https://dashboard-films-project.netlify.app/
 
 ## Getting Started
 
