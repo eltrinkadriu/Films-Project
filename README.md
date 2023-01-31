@@ -1,4 +1,4 @@
-# FILMS Project
+# Films Project
 
 This project is done using [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/) and [Vite](https://vitejs.dev/) for compiling & bundling.
 
@@ -16,7 +16,7 @@ This project is done using [React](https://reactjs.org/) with [TypeScript](https
 
 ## Live Version
 
-TODO:
+dashboard-films-project.netlify.app
 
 ## Getting Started
 
